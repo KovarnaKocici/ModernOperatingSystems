@@ -1,0 +1,7 @@
+﻿  TCPSingleThreadedEchoServer.cpp
+E:\ModernOpSystems\NetExamples\TCPSingleThreadedEchoServer\TCPSingleThreadedEchoServer.cpp(77,57): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TCPSingleThreadedEchoServer.vcxproj -> E:\ModernOpSystems\NetExamples\Release\TCPSingleThreadedEchoServer.exe

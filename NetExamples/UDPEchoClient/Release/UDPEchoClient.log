@@ -1,0 +1,7 @@
+﻿  UDPEchoClient.cpp
+E:\ModernOpSystems\NetExamples\UDPEchoClient\UDPEchoClient.cpp(32,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UDPEchoClient.vcxproj -> E:\ModernOpSystems\NetExamples\Release\UDPEchoClient.exe
